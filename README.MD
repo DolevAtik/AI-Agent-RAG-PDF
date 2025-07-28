@@ -69,6 +69,3 @@ The Swagger interface allows you to easily interact with the API:
 - [Ollama](https://ollama.com) installed locally and running
 ---
 ## **Happy building! 🚀**
-
-## submitted by :
-### Dolev Atik & Yahav Vituri
